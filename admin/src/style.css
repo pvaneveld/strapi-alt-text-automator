@@ -1,0 +1,23 @@
+:root {
+  --primary: #4945ff;
+}
+
+.link {
+  color: var(--primary);
+  text-decoration: underline;
+}
+
+.paragraph {
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+.paragraph--readable {
+  max-width: 30rem;
+}
+
+.heading {
+  margin-bottom: 1rem;
+  line-height: 1.5;
+  font-size: 1.5rem;
+}

@@ -1,0 +1,21 @@
+{
+  "plugin.name": "Alt Text Automator",
+  "plugin.help.settings": "Settings",
+  "plugin.homepage.title": "Alt Text Automator",
+  "plugin.settings.apiKey.label": "API Key",
+  "plugin.settings.button.save.error": "Error duing save process",
+  "plugin.settings.button.save.label": "Save",
+  "plugin.settings.button.save.message": "Settings saved",
+  "plugin.settings.enabled": "Automatically generate alt text for new images",
+  "plugin.settings.general.title": "General settings",
+  "plugin.settings.title": "Alt Text Automator settings",
+  "plugin.settings.version": "v{version}",
+  "plugin.settings.description": "To use this plugin, you need to create an account on {link}. Once you have an account, you can get your API key from the {settingsLink}.",
+  "plugin.settings.description.link.home": "Alt Text Automator website",
+  "plugin.settings.description.link.settings": "settings page",
+  "plugin.settings.enabled.hint": "When enabled, alt text will be automatically generated for new images.",
+  "plugin.settings.language.hint": "Select the language in which the alt text will be generated.",
+  "plugin.settings.language.label": "Language",
+  "plugin.homepage.description": "The Alt Text Automator plugin automatically generates alt text for images uploaded to your Strapi media library. To use this plugin, you need to need to connect your account on the settings page.",
+  "plugin.homepage.button": "Go to settings"
+}
