@@ -2,7 +2,11 @@
 
 A plugin for <a href="https://github.com/strapi/strapi">Strapi CMS</a> that automatically generates alt text for images you upload to your media library via [Alt Text Automator](https://www.alttextautomator.com/).
 
-## Installation
+## ✨ Supported Strapi Versions
+
+The Placeholder plugin is only compatible with Strapi v4.
+
+## ⚙️ Installation
 
 To install, run:
 
@@ -16,12 +20,11 @@ Open/create file `config/plugins.js`. Enable this plugin by adding:
 module.exports = {
   "alt-text-automator": {
     enabled: true,
-    resolve: "./src/plugins/alt-text-automator", // path to the plugin folder
   },
 };
 ```
 
-## How to generate blurhash for an image
+## 🖍️ How to generate alt text for images
 
 1. Create an account on [Alt Text Automator](https://www.alttextautomator.com/auth/sign-up).
 2. Generate an API key on the [settings page](https://www.alttextautomator.com/settings/api-keys).
