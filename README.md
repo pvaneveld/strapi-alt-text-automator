@@ -28,8 +28,8 @@ module.exports = {
 
 1. Create an account on [Alt Text Automator](https://www.alttextautomator.com/auth/sign-up).
 2. Generate an API key on the [settings page](https://www.alttextautomator.com/settings/api-keys).
-   ![Generate an API key in alt text automator](./assets/strapi-api-key.png)
+   ![Generate an API key in alt text automator](https://ik.imagekit.io/ripoicdyf/assets/strapi-api-key.png?updatedAt=1709294443106)
 3. Add the API key to your Strapi Alt Text Automator plugin settings. If your API key is valid, the available credits will be displayed.
-   ![Add API key to Strapi settings](./assets/strapi-settings.png)
+   ![Add API key to Strapi settings](https://ik.imagekit.io/ripoicdyf/assets/strapi-settings.png?updatedAt=1709294443219)
 4. Upload an image(s) to your media library. The alt text will be automatically generated and added to the image in your desired language.
-   ![Alt text generated for image](./assets/strapi-alt-text.png)
+   ![Alt text generated for image](https://ik.imagekit.io/ripoicdyf/assets/strapi-alt-text.png?updatedAt=1709294443380)

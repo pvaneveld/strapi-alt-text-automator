@@ -1,6 +1,6 @@
 {
   "name": "strapi-alt-text-automator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Alt Text Automator Strapi plugin is a tool that automatically generates alt text for images in your Strapi application.",
   "strapi": {
     "name": "alt-text-automator",
